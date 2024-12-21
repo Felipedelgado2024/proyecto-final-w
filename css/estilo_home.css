@@ -1,0 +1,18 @@
+@font-face {
+    font-family: popcat;
+    src: url("../FONTS/Popcat.otf");
+
+}
+
+h1, h2{
+    font-family: popcat;
+}
+
+header, main{
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
